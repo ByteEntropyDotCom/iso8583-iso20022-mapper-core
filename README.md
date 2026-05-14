@@ -1,5 +1,12 @@
 # ISO 8583 to ISO 20022 Mapper Core
 
+[![Java 21](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)](https://www.oracle.com/java/technologies/downloads/#java21)
+[![Spring Boot 3.x](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Maven Central](https://img.shields.io/badge/Maven-Build-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ByteEntropyDotCom/iso8583-iso20022-mapper-core/ci.yml?branch=main&label=CI)](https://github.com/your-github-username/your-repo-name/actions)
+
 A high-performance, asynchronous bridge service designed to transform legacy **ISO 8583** financial messages into modern **ISO 20022** (XML) formats.
 
 Built with **Java 21**, **Spring Boot 3**, and **Virtual Threads**, this service is optimized for high-concurrency payment orchestration environments.
